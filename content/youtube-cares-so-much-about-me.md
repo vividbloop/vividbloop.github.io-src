@@ -1,7 +1,7 @@
 Title: YouTube Cares So Much About Me
 Date: 2019-12-26 10:40
 Modified: 2019-12-26 10:40
-Category: tech, social-media
+Category: tech
 Tags: algorithms
 Slug: YouTube-Cares-So-Much-About-Me
 Authors: Vivid Bloop
